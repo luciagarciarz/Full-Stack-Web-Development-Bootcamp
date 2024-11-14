@@ -1,5 +1,7 @@
 # My-The-Complete-2024-2025-Web-Development-Bootcamp
-Exercise's solutions of my Web Development Bootcamp
-Este repositorio muestra mis soluciones a los ejercicios de cada tarea del bootcamp que estoy realizando
 
-Si eres recruiter y estás viendo este repositorio para comprobar mis conocimientos básicos en programación, por favor, consulta en la pestaña "Projects" mi roadmap del curso que tanto trabajo me ha costado hacer :) para consultar los tiempos del bootcamp y los conocimientos adquiridos
+Este repositorio muestra mis soluciones a los ejercicios de cada tarea del bootcamp The Complete 2024 Web Development Bootcamp
+
+Si eres recruiter y estás viendo este repositorio para comprobar mis conocimientos básicos en programación, por favor, consulta en el enlace de más abajo o en la pestaña "Projects" mi roadmap del curso
+
+My-The-Complete-2024-2025-Web-Development-Bootcamp Project -----> https://github.com/users/luciagarciarz/projects/2
