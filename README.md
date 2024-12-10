@@ -1,4 +1,4 @@
-# The-Complete-2024-2025-Web-Development-Bootcamp
+Full Stack Web Development Bootcamp
 
 Este repositorio muestra mis soluciones a los ejercicios de cada tarea del bootcamp The Complete 2024 Web Development Bootcamp de App Brewery
 
